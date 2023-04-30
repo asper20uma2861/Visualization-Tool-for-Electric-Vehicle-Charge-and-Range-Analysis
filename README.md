@@ -1,8 +1,10 @@
 # Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
 
-Team leader link - Subhashree S: https://prod-apsoutheast-a.online.tableau.com/#/site/subhashreesqys/home
+TEAM LEADER: 
 
-Teammates link - 
+Subhashree S: https://prod-apsoutheast-a.online.tableau.com/#/site/subhashreesqys/home
+
+TEAM MEMBERS: 
 
 Vishnupriya V: https://us-west-2b.online.tableau.com/#/site/vishnupriya/home
 
@@ -12,4 +14,4 @@ Dashboard public link - https://public.tableau.com/views/VisualizationToolforEle
 
 Story public link - https://public.tableau.com/shared/9Q92WQHMJ?:display_count=n&:origin=viz_share_link
 
-Video Demonstartion link - https://drive.google.com/file/d/1SzNf8S_9q2oKrWDBqCvWyHTRpEQFwPgW/view?usp=share_link
+Video Demonstartion link - https://drive.google.com/file/d/1SzNf8S_9q2oKrWDBqCvWyHTRpEQFwPgW/view?usp=sharing
